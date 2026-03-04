@@ -1,6 +1,6 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
 
-<img alt="Night Coding" src="" width='40' align="left"/><h2 align="left">Hey there! I'm Leonado Geney</h2>
+
+<img alt="Night Coding" src="https://static.vecteezy.com/system/resources/thumbnails/012/996/773/small/sport-ball-football-free-png.png" width='40' align="left"/><h2 align="left">Hey there! I'm Leonado Geney</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
