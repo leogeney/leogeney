@@ -17,6 +17,6 @@
 - Git
 - Backend
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leogeney&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leogeney&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogeney&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogeney&layout=compact&theme=tokyonight)
