@@ -65,8 +65,6 @@ PostgreSQL     ████████░░░░░░░░░░░░   40
 
 <div align="center">
 
-### 💬 *"El código es poesía hecha lógica."*
 
-⭐ Si te gusta alguno de mis proyectos, ¡no olvides darle una estrella!
 
 </div>
