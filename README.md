@@ -14,10 +14,8 @@
 ## 🙋‍♂️ Sobre mí
 
 - 🎓 Estudiante de **Ingeniería de Sistemas**
-- 🌱 Actualmente aprendiendo **React**, **Git** y **Backend**
-- 🛠️ Construyendo proyectos con JavaScript y PostgreSQL
-- 🚀 Apasionado por el desarrollo web y las nuevas tecnologías
-- 📍 Basado en **Colombia**
+- 🚀 Apasionado por el desarrollo y las nuevas tecnologías
+- 📍 **Colombia**
 
 ---
 
