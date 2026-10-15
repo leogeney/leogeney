@@ -2,15 +2,12 @@
 
 Desarrollador web en formación · **React + TypeScript** · Estudiante de Ingeniería de Sistemas en la UFPSO (Ocaña, Colombia).
 
-Construyo aplicaciones web completas: frontend en React, backend y bases de datos en PostgreSQL. Actualmente desarrollo un sistema de gestión de información para una empresa de servicios públicos (tesis) y estoy montando mi agencia de software.
+Construyo aplicaciones web completas: frontend en React, backend y bases de datos en PostgreSQL. Actualmente desarrollo un sistema de gestión de información para una empresa de servicios.
 
-## 🚀 Proyectos destacados
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [EMCAGUA](https://github.com/leogeney/EMCAGUA-PROYECTO) | Sistema de gestión de información para empresa de acueducto y saneamiento | TypeScript · React · PostgreSQL |
-| [Nombre-repo](#) | Descripción de una línea | Stack |
-| [Nombre-repo](#) | Descripción de una línea | Stack |
+
+
+
 
 ## 🛠️ Stack
 
@@ -24,4 +21,4 @@ Construyo aplicaciones web completas: frontend en React, backend y bases de dato
 
 ## 📫 Contacto
 
-[LinkedIn](#) · [Email](mailto:tu@email.com) · [Web](#)
+[LinkedIn](www.linkedin.com/in/leogeney) · [Email](ljgeneyl@ufpso.edu.co) 
